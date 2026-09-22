@@ -2,6 +2,8 @@
 
 > A Windows volume mixer whose sliders go up to 300 %.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
 Like the real Windows volume mixer - one slider per app with icon, mute button and level meter - but every slider goes up to **300 %**. Everything above 100 % is the pink boost zone.
 
 ## What it does
@@ -30,6 +32,8 @@ New to this? Follow **[SETUP-HELP.md](SETUP-HELP.md)** - it walks you through in
 - While boosting, the Windows mixer shows the app at about 2 % - that is intentional (see above). Moving the slider back to 100 % or closing LautMixer restores everything.
 - "System sounds" is capped at 100 % (no own process to capture).
 - Only one instance at a time.
+
+![preview](lautmixer.png)
 
 ---
 
