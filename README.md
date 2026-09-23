@@ -9,6 +9,7 @@
 </div>
 
 ---
+
 Like the real Windows volume mixer - one slider per app with icon, mute button and level meter - but every slider goes up to **300 %**. Everything above 100 % is the pink boost zone.
 
 ## What it does
